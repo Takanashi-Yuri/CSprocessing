@@ -1,4 +1,6 @@
 # CSprocessing
+CSprocessing = Computer systems processing
+
 Program for working with computer systems like Binary or Decimal, Hexadecimal.
 
 Working on:
