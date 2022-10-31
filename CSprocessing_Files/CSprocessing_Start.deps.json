@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CSprocessing_Start/1.0.0": {
+        "runtime": {
+          "CSprocessing_Start.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSprocessing_Start/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
